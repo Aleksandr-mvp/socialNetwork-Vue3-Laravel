@@ -1,10 +1,14 @@
 <template>
-<h1 class="container">Vue Router</h1>
+    <h1 class="container">Vue Router</h1>
+    <MyButton>Регистрация</MyButton>
+    <MyInput />
 </template>
 
 <script>
+
+
 export default {
-    name: "Container"
+    name: "Container",
 }
 </script>
 
