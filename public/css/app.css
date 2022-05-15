@@ -1,9 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);
 :root {
-  --color-primary-light: #c451bd;
-  --color-primary-dark: #6940a9;
   --color-gray-dark-1: #777;
-  --color-gray-light-1: #c451bd;
   --shadow-dark: 0 2rem 6rem rgba(0, 0, 0, .7);
 }
 

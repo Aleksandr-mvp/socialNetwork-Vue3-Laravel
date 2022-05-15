@@ -16,7 +16,6 @@ export default {
 .container {
     max-width: 120rem;
     margin: 8rem auto;
-    background-color: var(--color-primary-light), var(--color-primary-dark);
     box-shadow: var(--shadow-dark);
     min-height: 50rem;
 

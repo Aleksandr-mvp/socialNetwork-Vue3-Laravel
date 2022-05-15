@@ -12,7 +12,7 @@ export default {
 
 <style scoped lang="scss">
 .btn {
-    background-color: var(--color-primary-light);
+    background-color: #2d3748;
     color: #fff;
     border-radius: 5px;
     font-family: 'Josefin Sans', sans-serif;
@@ -23,7 +23,8 @@ export default {
     cursor: pointer;
 
     &:hover {
-        background-color: var(--color-primary-dark);
+        background-color: #fff;
+        color: #2d3748;
     }
 }
 </style>
